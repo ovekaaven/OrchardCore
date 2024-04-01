@@ -206,46 +206,46 @@
 	.palette-color-4 { fill: #6AB356 !important; }
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
-	.ye { fill: #328533; }
-	.gb { fill: #328533; }
-	.us { fill: #328533; }
-	.fr { fill: #328533; }
-	.it { fill: #D9E887; }
-	.im { fill: #D9E887; }
-	.bg { fill: #D9E887; }
-	.dk { fill: #D9E887; }
-	.sg { fill: #D9E887; }
-	.ru { fill: #D9E887; }
-	.cy { fill: #D9E887; }
-	.pl { fill: #D9E887; }
-	.tr { fill: #D9E887; }
-	.ba { fill: #D9E887; }
-	.vn { fill: #D9E887; }
-	.ee { fill: #D9E887; }
-	.ro { fill: #D9E887; }
-	.jp { fill: #B3D778; }
-	.ch { fill: #B3D778; }
-	.pk { fill: #B3D778; }
-	.rs { fill: #B3D778; }
-	.ua { fill: #B3D778; }
-	.at { fill: #B3D778; }
-	.za { fill: #B3D778; }
-	.in { fill: #B3D778; }
-	.es { fill: #B3D778; }
-	.tn { fill: #B3D778; }
 	.de { fill: #8CC569; }
 	.th { fill: #8CC569; }
-	.no { fill: #8CC569; }
 	.pt { fill: #8CC569; }
-	.be { fill: #6AB356; }
+	.no { fill: #8CC569; }
+	.cn { fill: #6AB356; }
 	.se { fill: #6AB356; }
-	.nz { fill: #6AB356; }
+	.nl { fill: #6AB356; }
 	.fi { fill: #6AB356; }
-	.hu { fill: #47A042; }
+	.be { fill: #6AB356; }
+	.nz { fill: #47A042; }
 	.ca { fill: #47A042; }
+	.hu { fill: #47A042; }
 	.au { fill: #47A042; }
-	.nl { fill: #47A042; }
-	.cn { fill: #47A042; }
+	.fr { fill: #328533; }
+	.us { fill: #328533; }
+	.gb { fill: #328533; }
+	.ye { fill: #328533; }
+	.bg { fill: #D9E887; }
+	.it { fill: #D9E887; }
+	.ro { fill: #D9E887; }
+	.ee { fill: #D9E887; }
+	.ru { fill: #D9E887; }
+	.sg { fill: #D9E887; }
+	.tr { fill: #D9E887; }
+	.pl { fill: #D9E887; }
+	.im { fill: #D9E887; }
+	.ba { fill: #D9E887; }
+	.cy { fill: #D9E887; }
+	.dk { fill: #D9E887; }
+	.vn { fill: #D9E887; }
+	.tn { fill: #B3D778; }
+	.jp { fill: #B3D778; }
+	.ua { fill: #B3D778; }
+	.rs { fill: #B3D778; }
+	.ch { fill: #B3D778; }
+	.za { fill: #B3D778; }
+	.in { fill: #B3D778; }
+	.pk { fill: #B3D778; }
+	.es { fill: #B3D778; }
+	.at { fill: #B3D778; }
 #legend6 { display: inline !important; }</style>
 
   <path
@@ -1631,7 +1631,7 @@
      class="landxx coastxx nz"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6637">New Zealand (17 contributions)
+       id="title6637">New Zealand (407 contributions)
 </title>
     <path
        id="path3560"
@@ -2936,7 +2936,7 @@
      class="landxx coastxx gb"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7077">United Kingdom (948 contributions)
+       id="title7077">United Kingdom (558 contributions)
 </title>
     <path
        id="United_Kingdom_Northern_Ireland"
@@ -6135,7 +6135,7 @@
      class="landxx coastxx no"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8157">Norway (11 contributions)
+       id="title8157">Norway (12 contributions)
 </title>
     <g
        id="xv"
@@ -9616,7 +9616,7 @@
            id="tspan29698"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">36</tspan></text>
+           y="1542.4438">52</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9831,7 +9831,7 @@
            id="tspan102022"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">36</tspan></text>
+           y="1542.4438">52</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10027,7 +10027,7 @@
            id="tspan104720"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">36</tspan></text>
+           y="1542.4438">52</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10200,7 +10200,7 @@
            id="tspan106790"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">36</tspan></text>
+           y="1542.4438">52</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10350,7 +10350,7 @@
            id="tspan108954"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">36</tspan></text>
+           y="1542.4438">52</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10692,7 +10692,7 @@
            id="tspan113674"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">36</tspan></text>
+           y="1542.444">52</tspan></text>
     </g>
   </g>
   <g
